@@ -15,4 +15,5 @@ tags:
   - Tandy
   - TRS-80
   - Microsoft Windows
+  - GUI
 ---
